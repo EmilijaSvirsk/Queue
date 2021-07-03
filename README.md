@@ -1,6 +1,6 @@
 # Queue
 
-Queue structure written in C. Includes functions:
+Queue data structure written in C. Includes functions:
 + Queue_Clear
 + Queue_isEmpty
 + Queue_Size
